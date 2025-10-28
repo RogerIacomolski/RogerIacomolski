@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RogerIacomolski">
-    <img src="https://github.com/RogerIacomolski.png?size=200" width="200" height="200" style="border-radius: 70%; border: 3px solid #61DAFB; box-shadow: 0 0 20px rgba(97, 218, 251, 0.5);"/>
+    <img src="https://github.com/RogerIacomolski.png?size=200" width="200" height="200" style="border-radius: 50%; border: 3px solid #61DAFB;" />
     
   </a>
   <h1 align="center">Roger Luiz Iacomolski <img style="margin-top: 2px; width: 43px;" src="https://img.icons8.com/?size=100&id=FNbnqlDTjR45&format=png&color=000000" /></h1>
